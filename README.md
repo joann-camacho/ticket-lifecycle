@@ -21,8 +21,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Intake from End User
 - Assignment and Communication
-- Working the Issue
-- Resolution
+- Working the Issue and Resolution
 
 <h2>Lifecycle Stages</h2>
 
@@ -38,17 +37,22 @@ Issue: Slow Performance on a Computer or Laptop
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/22d36d0c-a1d9-4d97-b104-e707c2a75f24)
+
+![image](https://github.com/user-attachments/assets/3ff4ed5f-92bb-44ad-b675-ca58ccec06cc)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Assignment dashboard + communication  from John (Agent)
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/27210ec1-b78f-47d3-9313-e5ee9365aebe)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+ Working the Issue and Resolution
 </p>
 <br />
